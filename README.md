@@ -6,3 +6,4 @@ part1
 #npm install -g nodemon
 node index.js
 nodemon index.js
+#npm install body-parser
